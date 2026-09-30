@@ -37,7 +37,7 @@
     "express": "~4.17.1",
     "express-session": "^1.17.1",
     "http-status": "^1.5.0",
-    "morgan": "~1.10.0",
+    "morgan": "~1.12.1",
     "multer": "^2.0.2",
     "pegjs": "^0.10.0",
     "pg": "^8.5.1",
